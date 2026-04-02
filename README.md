@@ -83,3 +83,7 @@ The backend Express REST API operates predominantly around the following archite
    npm run dev
    ```
 5. Navigate to `http://localhost:5173` to experience the EPMS Dashboard.
+
+   **Default Admin Credentials:**
+   - **Username:** `admin`
+   - **Password:** `admin123`
