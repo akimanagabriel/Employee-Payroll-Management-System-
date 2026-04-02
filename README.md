@@ -2,6 +2,8 @@
 
 SmartPark EPMS is a modern, full-stack enterprise web application designed to simplify workforce management and streamline payroll reporting. The platform offers a seamless experience for administrators to track employees across departments, standardize salary processing, and visualize monthly payroll expenses.
 
+![EPMS Dashboard Screenshot](./screenshot.png)
+
 ## 🚀 Features
 
 - **Authentication & Security:** Robust JWT-based authentication flow with protected routes via React Router.
